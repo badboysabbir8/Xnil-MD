@@ -1,7 +1,7 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "xnil",
   "description": "QUEEN-DEW has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
+  "logo": "https://telegra.ph/xnil-06-01",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
   "success_url": "/",
 
@@ -9,7 +9,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=TFsQ3Jia#8CZhQu5bAXSJaek8ZJkQCelO1zgTGio8XJ77TwUr6cs"
         },
         "PREFIX": {
             "description": "put prefix here",
@@ -18,27 +18,28 @@
         },
         "LANG": {
             "description": "To put bot sinhala do not fill here. you want to put bot english put EN here",
-            "required": true
+            "required": true,
+            "value": "EN"
         },
         "OWNER-NAME": {
             "description": "put Your name herd",
             "required": true,
-            "value": "Vajira"      
+            "value": "Xnil"      
         },
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "+881818512416"
         },
         "IMAGE": {
             "description": "Put bot image url here",
             "required": true,
-             "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
+             "value": "https://telegra.ph/xnil-06-01"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
